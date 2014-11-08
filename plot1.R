@@ -1,6 +1,7 @@
 ## Exploratory Data Analysis
 ## Project 1 - Plot 1
 
+
 ##  Note:  To run this R script, the data file for the assignment (titled "household_power_consumption.txt") must be
 ##  unzipped and saved in your R working directory.
 
